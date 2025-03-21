@@ -5,6 +5,7 @@ This project addresses a production planning problem for a factory using mixed-i
 
 **Team:**  
 Zoe Borrone, Luca Mazzarello, Ignacio Pardo and Olivier Saint Nom
+
 **Project:** TP2 – Production Planning and Lot Sizing
 
 ## Problem Description
