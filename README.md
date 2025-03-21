@@ -4,8 +4,7 @@
 This project addresses a production planning problem for a factory using mixed-integer linear programming (MILP). The objective is to determine the optimal production plan for multiple products over a 24-month horizon, with the goal of satisfying demand at minimum production cost. In addition to the basic production model, several extensions were analyzed, including production capacity constraints, outsourcing options, minimum outsourcing quantities, and reducing warehouse capacity.
 
 **Team:**  
-Ezequiel Grinblat, Luca Mazzarello, and Camila Migdal  
-**Course:** TD VI: Artificial Intelligence (2nd Semester, 2024)  
+Zoe Borrone, Luca Mazzarello, Ignacio Pardo and Olivier Saint Nom
 **Project:** TP2 – Production Planning and Lot Sizing
 
 ## Problem Description
